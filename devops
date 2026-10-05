@@ -2,5 +2,6 @@ import.java.util.*;
 class demo{
 public static void main(string[]args){
 System.out.println("hello devops students");
+System.out.println("lets learn git commands");
 }
 }
